@@ -1,1 +1,1 @@
-はじめてプログラミングを学習した時につくったつまらないプログラム
+A boring program I created when I first learned programming.
